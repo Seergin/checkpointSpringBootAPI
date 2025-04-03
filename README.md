@@ -35,3 +35,9 @@ A aplicação está organizada nos seguintes pacotes:
 
 Acessar:
 http://localhost:8080/swagger-ui/index.html
+
+
+## Rodar o programa
+
+Execute no cmd:
+git clone https://github.com/Seergin/checkpointSpringBootAPI.git
